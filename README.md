@@ -5,18 +5,18 @@
 ### Shiny Application
 
 Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
--Deploy the application on Rstudio's shiny server
--Share the application link by pasting it into the provided text box
--Share your server.R and ui.R code on github
+1. Deploy the application on Rstudio's shiny server
+2. Share the application link by pasting it into the provided text box
+3. Share your server.R and ui.R code on github
 
 
 The application must include the following:
 
--Some form of input (widget: textbox, radio button, checkbox, ...)
--Some operation on the ui input in sever.R
--Some reactive output displayed as a result of server calculations
--You must also include enough documentation so that a novice user could use your application.
--The documentation should be at the Shiny website itself. Do not post to an external link.
+1. Some form of input (widget: textbox, radio button, checkbox, ...)
+2. Some operation on the ui input in sever.R
+3. Some reactive output displayed as a result of server calculations
+4. You must also include enough documentation so that a novice user could use your application.
+5. The documentation should be at the Shiny website itself. Do not post to an external link.
 
 
 ### Reproducible Pitch Presentation
@@ -25,16 +25,16 @@ OK, you've made your shiny app, now it's time to make your pitch. You get 5 slid
 
 Here's what you need:
 
--5 slides to pitch our idea done in Slidify or Rstudio Presenter
--Your presentation pushed to github or Rpubs
--A link to your github or Rpubs presentation pasted into the provided text box
+1. 5 slides to pitch our idea done in Slidify or Rstudio Presenter
+2. Your presentation pushed to github or Rpubs
+3. A link to your github or Rpubs presentation pasted into the provided text box
 
 Your presentation must satisfy the following:
 
--It must be done in Slidify or Rstudio Presenter
--It must be 5 pages
--It must be hosted on github or Rpubs
--It must contained some embedded R code that gets run when slidifying the document
+1. It must be done in Slidify or Rstudio Presenter
+2. It must be 5 pages
+3. It must be hosted on github or Rpubs
+4. It must contained some embedded R code that gets run when slidifying the document
 
 ### My Shiny Application
 
