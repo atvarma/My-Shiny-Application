@@ -54,4 +54,4 @@ Just input the following data:
 
 Application: https://atvarma.shinyapps.io/CaloricIntake/
 
-Presentation: 
+Presentation: http://rpubs.com/atvarma/411113
